@@ -1,3 +1,9 @@
-.titulo{
-    color: red;
+.titulo__carrusel{
+    font-family: 'Pacifico', cursive;
+}
+
+.img__carrusel{
+    height: 400px;
+    object-fit: cover;
+    object-position: 0 80%;
 }
