@@ -24,6 +24,10 @@ img{
     background-color: #0f8d1a;
     color: white;
 }
+.btn__bg:hover{
+    background-color: #000000;
+    color: white;
+}
 .card__image{
     height: 25dvh;
     object-fit: cover;
