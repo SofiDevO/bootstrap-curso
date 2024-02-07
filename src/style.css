@@ -1,4 +1,9 @@
-.titulo__carrusel{
+img{
+    width: 100%;
+
+}
+
+.titulo__fuente{
     font-family: 'Pacifico', cursive;
 }
 
@@ -7,3 +12,26 @@
     object-fit: cover;
     object-position: 0 80%;
 }
+
+.text__color-special{
+    color: #0f8d1a;
+}
+.border__color-card{
+    border-color: #0f8d1a;
+}
+
+.btn__bg{
+    background-color: #0f8d1a;
+    color: white;
+}
+.card__image{
+    height: 25dvh;
+    object-fit: cover;
+}
+
+.card__heigth{
+    height: 54dvh;
+
+}
+
+/* height: 394px; */
